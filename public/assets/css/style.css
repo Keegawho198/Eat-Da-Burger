@@ -1,7 +1,8 @@
 body {
   width: 99%;
   height: 900px;
-  background-color: #fc6;
+  background-color: greenyellow;
+  /* should be #fc6 */
 }
 
 #top-bar {
